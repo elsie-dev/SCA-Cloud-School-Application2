@@ -1,6 +1,9 @@
 # SCA-Cloud-School-Application
 Cohort 2 Cloud School application,Jenkins assessment.  
 Involves deploying an instance from the Azure Cloud Provider and running jenkins server on it while integrating my game application via github repository.
+
+Here's a rubric of the project:
+* CICD 5.2 Assessment.[Jenkins](https://docs.google.com/document/d/1KUDJ-3NMWXM8WCedIQrhaFyg-1VC1Dg36mz2G8nT03o/edit)
   
 ## SUBMISSION    
 
